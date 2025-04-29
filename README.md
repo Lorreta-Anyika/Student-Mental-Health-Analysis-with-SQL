@@ -199,7 +199,7 @@ WHERE partner_bi = 'No'
 -  **Run the Queries:** Use the SQL queries provided in the COMPETITIVE WRITING.sql file to perform your analysis.
 -   **Explore and Modify:** Feel free to adjust queries to answer new business questions or perform deeper analysis.
 ---
-## 👨💻 Author 
+## 💻 Author 
 - Lorreta Anyika @ ALU DATATOK
 - This project is part of the ALU DATATOK portfolio, showcasing the essential SQL skills every data analyst should master. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
  ---
